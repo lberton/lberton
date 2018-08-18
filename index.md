@@ -2,8 +2,8 @@
 
 I am an Assistent Professor in the Department of Computer Science at Federal University of Sao Paulo. My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
 
-[CV](http://lattes.cnpq.br/9064767888093340) 
-[LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)
+[CV](http://lattes.cnpq.br/9064767888093340)       
+[LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)             
 [Instagram](https://www.instagram.com/lilyberton/?hl=pt-br)
 
 ### Contact
