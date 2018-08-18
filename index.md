@@ -1,10 +1,11 @@
 ## Welcome to my page!
 
-I am Assistant Professor in the Department of Computer Science at Federal University of Sao Paulo - Brazil. My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
-My Ph.D. and Msc were carried out at the Instituto de Ciências Matemáticas e de Computação - USP [ICMC](https://www.icmc.usp.br/en/) and undergraduate studies at Universidade Estadual do Centro-Oeste [UNICENTRO](https://www3.unicentro.br/).
+I am an Assistant Professor in the Institute of Science and Technology at Federal University of Sao Paulo [ICT/UNIFESP] (http://www.unifesp.br/campus/sjc/). My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
+My Ph.D. and Msc were carried out at the Instituto de Ciências Matemáticas e de Computação [ICMC/USP](https://www.icmc.usp.br/en/) and undergraduate studies at Universidade Estadual do Centro-Oeste [UNICENTRO](https://www3.unicentro.br/).
 
 [CV](http://lattes.cnpq.br/9064767888093340)       
-[LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)             
+[LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)  
+[Google Scholar](https://scholar.google.com/citations?user=TS6MWEUAAAAJ&hl=pt-BR)     
 [Instagram](https://www.instagram.com/lilyberton/?hl=pt-br)
 
 ### Contact
