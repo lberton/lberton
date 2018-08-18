@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: Lilian Berton
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/lberton/lberton/master/images/jekyll-logo.png
-#title-img: /path/to/image
+avatar: https://avatars3.githubusercontent.com/u/13876182?s=460&v=4
+title-img: https://avatars3.githubusercontent.com/u/13876182?s=460&v=4
 
 navbar-links:
   About Me: "aboutme"
