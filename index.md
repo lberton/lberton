@@ -127,7 +127,7 @@ In: 2010 IEEE Congress on Evolutionary Computation (CEC), 2010, Barcelona, v. 1.
 6. Matheus Augusto de Castro Santos
 7. Maria Luíza Rodrigues da Silva
 
-### Former Group Members:
+### Undergraduate Former Group Members:
 1. Willian Dihanster Gomes de Oliveira
 2. Jéssica Aparecida Almeida dos Santos
 3. Thiago Akinori Sato
