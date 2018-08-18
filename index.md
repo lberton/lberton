@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-I am an Assistant Professor in the Institute of Science and Technology at Federal University of Sao Paulo [ICT/UNIFESP] (http://www.unifesp.br/campus/sjc/). My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
+I am an Assistant Professor in the Institute of Science and Technology at Federal University of Sao Paulo [ICT/UNIFESP] (https://www.unifesp.br/campus/sjc/). My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
 My Ph.D. and Msc were carried out at the Instituto de Ciências Matemáticas e de Computação [ICMC/USP](https://www.icmc.usp.br/en/) and undergraduate studies at Universidade Estadual do Centro-Oeste [UNICENTRO](https://www3.unicentro.br/).
 
 [CV](http://lattes.cnpq.br/9064767888093340)       
