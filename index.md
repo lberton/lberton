@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Lilian Berton is an Assistent Professor in the Departments of Computer Science at Federal University of Sao Paulo. Her research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
 
 You can use the [editor on GitHub](https://github.com/lberton/lberton/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
