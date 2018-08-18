@@ -1,7 +1,7 @@
 ## Welcome to my page!
 
 I am an Assistant Professor in the Institute of Science and Technology at Federal University of Sao Paulo [ICT/UNIFESP](https://www.unifesp.br/campus/sjc/). My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing.      
-My Ph.D. and Msc were carried out at the Institute of Mathematics and Computer Science [ICMC/USP](https://www.icmc.usp.br/en/) and undergraduate studies at State University of Central-West [UNICENTRO](https://www3.unicentro.br/).
+My Ph.D. and Msc were carried out at the Institute of Mathematics and Computer Science at University of Sao Paulo [ICMC/USP](https://www.icmc.usp.br/en/) and undergraduate studies at State University of Central-West [UNICENTRO](https://www3.unicentro.br/).
 
 [CV](http://lattes.cnpq.br/9064767888093340)       
 [LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)  
