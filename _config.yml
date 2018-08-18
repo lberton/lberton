@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Lilian Berton
-image: https://octodex.github.com/images/yaktocat.png
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
