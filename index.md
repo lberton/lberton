@@ -21,6 +21,7 @@ Web Page Unifesp: http://www.unifesp.br/campus/sjc/
 # Thesis
 Construção de redes baseadas em vizinhança para o aprendizado semissupervisionado
 [PhD dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-29072016-100548/pt-br.php)
+
 Caracterização de classes e detecção de outliers em redes complexa
 [Master dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-19072011-132701/pt-br.php)
 
