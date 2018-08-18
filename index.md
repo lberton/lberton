@@ -17,7 +17,7 @@ Zip code: 12231-280
 Room: 102
 ```
 
-### Publications
+## Publications
 ### Thesis
 1. [PhD dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-29072016-100548/pt-br.php)
 **Construção de redes baseadas em vizinhança para o aprendizado semissupervisionado**
@@ -113,7 +113,7 @@ In: VIII Encontro Nacional de Inteligência Artificial (ENIA2011), 2011, Natal, 
 In: 2010 IEEE Congress on Evolutionary Computation (CEC), 2010, Barcelona, v. 1. p. 1-6.
 [Link](10.1109/SBRN.2010.25)
 
-### Group
+## Group
 ### Masters Students:
 1. [Bruno Klaus de Aquino Afonso](http://lattes.cnpq.br/5069552456805947)
 2. [Samuel Bruno da Silva Sousa](http://lattes.cnpq.br/1187042825839354)
