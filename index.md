@@ -26,6 +26,12 @@ Web Page Unifesp: http://www.unifesp.br/campus/sjc/
 2. [Master dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-19072011-132701/pt-br.php)
 **Caracterização de classes e detecção de outliers em redes complexa**
 
+### Book chapter
+1. Berton, Lilian; Vega-Oliveros, Didier A.; Valverde-Rebaza, Jorge; da Silva, Andre T.; De Andrade Lopes, Alneu 
+**Network Sampling Based on Centrality Measures for Relational Classification**
+In: Lossio-Ventura J., Alatrista-Salas H.. (Org.). Communications in Computer and Information Science. 1ed.: Springer International Publishing, 2017, v. 656, p. 43-56.
+[Link](https://link.springer.com/chapter/10.1007/978-3-319-55209-5_4)
+
 ### Journals
 1. Berton, Lilian; De Paulo Faleiros, Thiago; Valejo, Alan; Valverde-Rebaza, Jorje; De Andrade Lopes, Alneu 
 **RGCLI: Robust Graph that Considers Labeled Instances for Semi-Supervised Learning**
