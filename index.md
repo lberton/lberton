@@ -3,19 +3,25 @@
 I am an Assistent Professor in the Department of Computer Science at Federal University of Sao Paulo. My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
 
 [CV](http://lattes.cnpq.br/9064767888093340)
+
 [LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)
+
 [Instagram](https://www.instagram.com/lilyberton/?hl=pt-br)
 
 ### Contact
 ```markdown
 Email: lilian dot berton dot unifesp @ gmail dot com
-Profissional adress: 12231-280, Av. Cesare Monsueto Giulio Lattes, 1211 - Jardim Santa Ines I, São José dos Campos - SP
+Profissional adress: Av. Cesare Monsueto Giulio Lattes, 1211 
+Jardim Santa Ines I, São José dos Campos - SP - 12231-280
 Room: 102
 Web Page Unifesp: http://www.unifesp.br/campus/sjc/ 
 ```
 
 ### Publications
+# Thesis
+Construção de redes baseadas em vizinhança para o aprendizado semissupervisionado
 [PhD dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-29072016-100548/pt-br.php)
+Caracterização de classes e detecção de outliers em redes complexa
 [Master dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-19072011-132701/pt-br.php)
 
 # Journals
