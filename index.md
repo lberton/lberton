@@ -114,9 +114,10 @@ In: 2010 IEEE Congress on Evolutionary Computation (CEC), 2010, Barcelona, v. 1.
 [Link](10.1109/SBRN.2010.25)
 
 ### Group
-### Master´s Students:
+### Masters Students:
 1. [Bruno Klaus de Aquino Afonso](http://lattes.cnpq.br/5069552456805947)
 2. [Samuel Bruno da Silva Sousa](http://lattes.cnpq.br/1187042825839354)
+
 ### Undergraduate Students:
 1. Victor de Sa Nunes
 2. Henrique Shiguehito Haji
@@ -125,6 +126,7 @@ In: 2010 IEEE Congress on Evolutionary Computation (CEC), 2010, Barcelona, v. 1.
 5. Willian Dihanster Gomes de Oliveira
 6. Matheus Augusto de Castro Santos
 7. Maria Luíza Rodrigues da Silva
+
 ### Former Group Members:
 1. Willian Dihanster Gomes de Oliveira
 2. Jéssica Aparecida Almeida dos Santos
