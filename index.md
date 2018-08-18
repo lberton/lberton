@@ -15,7 +15,6 @@ Address: Avenida Cesare Monsueto Giulio Lattes, 1211
 Jardim Santa Ines I, São José dos Campos - SP - Brazil
 Zip code: 12231-280
 Room: 102
-Web Page Unifesp: http://www.unifesp.br/campus/sjc/ 
 ```
 
 ### Publications
