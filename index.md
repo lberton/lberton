@@ -1,7 +1,7 @@
 ## Welcome to my page!
 
 I am an Assistant Professor in the Institute of Science and Technology at Federal University of Sao Paulo [ICT/UNIFESP](https://www.unifesp.br/campus/sjc/). My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing.      
-My Ph.D. and Msc were carried out at the Instituto de Ciências Matemáticas e de Computação [ICMC/USP](https://www.icmc.usp.br/en/) and undergraduate studies at Universidade Estadual do Centro-Oeste [UNICENTRO](https://www3.unicentro.br/).
+My Ph.D. and Msc were carried out at the Institute of Mathematics and Computer Science [ICMC/USP](https://www.icmc.usp.br/en/) and undergraduate studies at State University of Central-West [UNICENTRO](https://www3.unicentro.br/).
 
 [CV](http://lattes.cnpq.br/9064767888093340)       
 [LinkedIn](https://www.linkedin.com/in/lilian-berton-3a208824/)  
@@ -19,10 +19,10 @@ Room: 102
 
 ## Publications
 ### Thesis
-1. [PhD dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-29072016-100548/pt-br.php)
+1. [PhD](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-29072016-100548/pt-br.php)
 **Construção de redes baseadas em vizinhança para o aprendizado semissupervisionado**
 
-2. [Master dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-19072011-132701/pt-br.php)
+2. [Master](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-19072011-132701/pt-br.php)
 **Caracterização de classes e detecção de outliers em redes complexa**
 
 ### Book chapter
@@ -134,3 +134,9 @@ In: 2010 IEEE Congress on Evolutionary Computation (CEC), 2010, Barcelona, v. 1.
 4. Pedro Spoljaric Gomes
 5. Tamires Beatriz da Silva Lucena
 6. Renata Sendreti Broder
+
+### Collaborators
+1. [Didier A. Vega-Oliveros](https://didiervega.github.io/#Links)
+2. [Alneu de Andrade Lopes](http://conteudo.icmc.usp.br/pessoas/alneu/)
+3. [Evangelos Milios](https://web.cs.dal.ca/~eem/)
+
