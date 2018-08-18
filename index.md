@@ -12,7 +12,7 @@ I am an Assistent Professor in the Department of Computer Science at Federal Uni
 ```markdown
 Email: lilian dot berton dot unifesp at gmail dot com
 Address: Av. Cesare Monsueto Giulio Lattes, 1211 
-Jardim Santa Ines I, São José dos Campos - SP - 12231-280
+Jardim Santa Ines I, São José dos Campos -SP- 12231-280
 Room: 102
 Web Page Unifesp: http://www.unifesp.br/campus/sjc/ 
 ```
