@@ -10,7 +10,7 @@ My Ph.D. and Msc were carried out at the Institute of Mathematics and Computer S
 
 ### Contact
 ```markdown
-Email: lilian dot berton dot unifesp at gmail dot com
+Email: lilian [dot] berton [dot] unifesp [at] gmail [dot] com
 Address: Avenida Cesare Monsueto Giulio Lattes, 1211 
 Jardim Santa Ines I, São José dos Campos - SP - Brazil
 Zip code: 12231-280
