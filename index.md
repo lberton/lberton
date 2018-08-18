@@ -1,10 +1,13 @@
 ## Welcome to my page!
 
-Lilian Berton is an Assistent Professor in the Departments of Computer Science at Federal University of Sao Paulo. Her research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
+I am an Assistent Professor in the Department of Computer Science at Federal University of Sao Paulo. My research interests are in Machine Learning, Complex Network and Data Mining with applications in Social Networks, Text Mining, Climate and Image Processing. 
 
-You can use the [editor on GitHub](https://github.com/lberton/lberton/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+  - CV: http://lattes.cnpq.br/9064767888093340 
+  - Linked In: https://www.linkedin.com/in/lilian-berton-3a208824/
+  - Instagram: https://www.instagram.com/lilyberton/?hl=pt-br
 
 ### Markdown
 
