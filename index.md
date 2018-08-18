@@ -136,9 +136,9 @@ In: 2010 IEEE Congress on Evolutionary Computation (CEC), 2010, Barcelona, v. 1.
 6. Renata Sendreti Broder
 
 ### Collaborators
-1. [Didier A. Vega-Oliveros](https://didiervega.github.io/) [Google Scholar](https://scholar.google.com/citations?user=NGEqrT0AAAAJ&hl=en)
-2. [Alneu de Andrade Lopes](http://conteudo.icmc.usp.br/pessoas/alneu/) [Google Scholar](https://scholar.google.com/citations?user=3ejEglwAAAAJ&hl=en)
-3. [Evangelos Milios](https://web.cs.dal.ca/~eem/) [Google Scholar](https://scholar.google.com/citations?user=ME8aQywAAAAJ&hl=en)
-4. [Elbert E. N. Macau](http://lattes.cnpq.br/0793627832164040) [Google Scholar](https://scholar.google.com/citations?user=AGyl1XcAAAAJ&hl=en)
-5. [Otavio A. B. Penatti](http://www.recod.ic.unicamp.br/~otavio/academico/index.htm)[Google Scholar](https://scholar.google.com/citations?user=Ue04y74AAAAJ&hl=en)
+1. [Didier A. Vega-Oliveros](https://didiervega.github.io/) [[Google Scholar](https://scholar.google.com/citations?user=NGEqrT0AAAAJ&hl=en)]
+2. [Alneu de Andrade Lopes](http://conteudo.icmc.usp.br/pessoas/alneu/) [[Google Scholar](https://scholar.google.com/citations?user=3ejEglwAAAAJ&hl=en)]
+3. [Evangelos Milios](https://web.cs.dal.ca/~eem/) [[Google Scholar](https://scholar.google.com/citations?user=ME8aQywAAAAJ&hl=en)]
+4. [Elbert E. N. Macau](http://lattes.cnpq.br/0793627832164040) [[Google Scholar](https://scholar.google.com/citations?user=AGyl1XcAAAAJ&hl=en)]
+5. [Otavio A. B. Penatti](http://www.recod.ic.unicamp.br/~otavio/academico/index.htm) [[Google Scholar](https://scholar.google.com/citations?user=Ue04y74AAAAJ&hl=en)]
 
